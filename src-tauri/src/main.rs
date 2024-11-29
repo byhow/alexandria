@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    alexiy_lib::run()
+    alexandria_lib::run()
 }
